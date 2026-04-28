@@ -1,0 +1,8 @@
+flask
+flask-cors
+flask-session
+yfinance
+textblob
+pandas
+numpy
+scikit-learn
